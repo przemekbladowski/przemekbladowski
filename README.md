@@ -50,13 +50,12 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=github_dark&hide_border=true" width="49%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=przemekbladowski&theme=github_dark&hide_border=true" width="49%" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" />
+</p>
 
