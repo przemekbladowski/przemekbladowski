@@ -50,7 +50,6 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=przemekbladowski&theme=radical&layout=normal" width="49%" alt="Top Languages" />
