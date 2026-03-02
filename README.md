@@ -36,12 +36,6 @@
 
 </div>
 
----
-
-<p align="center">
-  <strong>🐍 My Contributions Snake</strong><br />
-  <img src="https://raw.githubusercontent.com/przemekbladowski/przemekbladowski/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 ---
 
