@@ -25,12 +25,6 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 
 ---
 
-### 🐍 My Contributions Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/przemekbladowski/przemekbladowski/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 ### 📊 GitHub Dashboard
 
