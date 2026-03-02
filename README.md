@@ -53,7 +53,6 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&v=3" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=github_dark&layout=compact&v=3" width="48%" alt="Top Languages" />
 </p>
 
