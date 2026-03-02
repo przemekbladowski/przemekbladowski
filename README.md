@@ -51,18 +51,18 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=przemekbladowski&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=radical&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=github_dark&hide_border=true" width="49%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </div>
 
 <br>
-<h4 align="center">📈 Commit Activity</h4>
+<h4 align="center">📈 GitHub Contributions</h4>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=przemekbladowski&theme=react-dark&hide_border=true&bg_color=141321" width="100%" />
+  <img src="https://ghchart.rshah.org/przemekbladowski" alt="Przemek's Contribution Graph" width="80%" />
 </div>
 
 ---
