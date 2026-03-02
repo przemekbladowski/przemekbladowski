@@ -1,18 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Hi%20there,%20I'm%20Przemek!&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Hi%20there,%20I'm%20Przemek!&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻%20Software%20Engineer-Student-blue?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=przemekbladowski&color=0077B5&style=flat-square&label=VISITS" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-Student-1a1b27?style=for-the-badge&logo=github&labelColor=7aa2f7&color=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=przemekbladowski&color=7aa2f7&style=for-the-badge&label=VISITS" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/PrzemysławBladowski"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:przemek.bladowski29@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/PrzemysławBladowski">
+    <img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27&labelColor=7aa2f7&color=1a1b27" />
+  </a>
+  <a href="mailto:przemek.bladowski29@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b27&labelColor=f7768e&color=1a1b27" />
+  </a>
 </p>
 
 ---
+
+<div align="center">
 
 ### 👨‍💻 About Me
 
@@ -23,8 +29,16 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 - 🏢 **Focus:** Building scalable, production-ready applications and optimizing user experiences.
 - 🌊 **Location:** Based in the beautiful Tricity area, Poland.
 
+</div>
+
 ---
 
+<p align="center">
+  <strong>🐍 My Contributions Snake</strong><br />
+  <img src="https://raw.githubusercontent.com/przemekbladowski/przemekbladowski/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
 
 ### 📊 GitHub Dashboard
 
@@ -46,22 +60,13 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 
 ### 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Front-end</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,sass" />
-    </td>
-    <td width="33%" valign="top">
-      <strong>Back-end</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
-    </td>
-    <td width="33%" valign="top">
-      <strong>Tools & Design</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,webpack,vercel,figma" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| **Front-end** | **Back-end** | **Tools & Design** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,sass" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" /> | <img src="https://skillicons.dev/icons?i=git,github,webpack,vercel,figma" /> |
+
+</div>
 
 ---
 
