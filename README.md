@@ -59,15 +59,4 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </div>
 
-<br>
-<h4 align="center">📈 GitHub Contributions</h4>
-<div align="center">
-  <img src="https://ghchart.rshah.org/przemekbladowski" alt="Przemek's Contribution Graph" width="80%" />
-</div>
 
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=przemekbladowski&icon=0&color=0" alt="Profile Views" />
-  </a>
-</div>
