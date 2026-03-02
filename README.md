@@ -51,10 +51,31 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=przemekbladowski&theme=github_dark&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=radical&layout=normal&hide_border=false" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=przemekbladowski&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" width="49%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" />
+  <a href="https://github.com/przemekbladowski/API_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=przemekbladowski&repo=API_Project&theme=radical&hide_border=false" width="49%" alt="API Project" />
+  </a>
+  <a href="https://github.com/przemekbladowski/kursNuxt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=przemekbladowski&repo=kursNuxt&theme=radical&hide_border=false" width="49%" alt="kursNuxt" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/przemekbladowski/NPFD_INIS5_FD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=przemekbladowski&repo=NPFD_INIS5_FD&theme=radical&hide_border=false" width="49%" alt="NPFD_INIS5_FD" />
+  </a>
+  <a href="https://github.com/przemekbladowski/ProjektReact">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=radical&hide_border=false" width="49%" alt="Projekt React" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/przemekbladowski/reciepeAPP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=przemekbladowski&repo=reciepeAPP&theme=radical&hide_border=false" width="49%" alt="reciepeAPP" />
+  </a>
+  <a href="https://github.com/przemekbladowski/SPA-sklep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=przemekbladowski&repo=SPA-sklep&theme=radical&hide_border=false" width="49%" alt="SPA-sklep" />
+  </a>
 </p>
