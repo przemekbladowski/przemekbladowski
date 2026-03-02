@@ -48,34 +48,44 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=radical&layout=normal&v=1" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=radical&show_icons=true&include_all_commits=true&count_private=true&v=1" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&v=3" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=github_dark&layout=compact&v=3" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=github-dark-orange&hide_border=false" width="97%" alt="GitHub Streak" />
+</p>
+
+<br />
+
+### 🚀 Featured Projects
+
+<p align="center">
   <a href="https://github.com/przemekbladowski/API_Project">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=API_Project&theme=radical&v=1" width="49%" alt="API Project" />
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=API_Project&theme=github_dark&v=3" width="48%" alt="API Project" />
   </a>
   <a href="https://github.com/przemekbladowski/kursNuxt">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=kursNuxt&theme=radical&v=1" width="49%" alt="kursNuxt" />
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=kursNuxt&theme=github_dark&v=3" width="48%" alt="kursNuxt" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/przemekbladowski/NPFD_INIS5_FD">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=NPFD_INIS5_FD&theme=radical&v=1" width="49%" alt="NPFD_INIS5_FD" />
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=NPFD_INIS5_FD&theme=github_dark&v=3" width="48%" alt="NPFD_INIS5_FD" />
   </a>
   <a href="https://github.com/przemekbladowski/ProjektReact">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=radical&v=1" width="49%" alt="Projekt React" />
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=github_dark&v=3" width="48%" alt="Projekt React" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/przemekbladowski/reciepeAPP">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=reciepeAPP&theme=radical&v=1" width="49%" alt="reciepeAPP" />
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=reciepeAPP&theme=github_dark&v=3" width="48%" alt="reciepeAPP" />
   </a>
   <a href="https://github.com/przemekbladowski/SPA-sklep">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=SPA-sklep&theme=radical&v=1" width="49%" alt="SPA-sklep" />
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=SPA-sklep&theme=github_dark&v=3" width="48%" alt="SPA-sklep" />
   </a>
 </p>
