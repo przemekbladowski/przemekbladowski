@@ -36,26 +36,23 @@
 
 </div>
 
-
 ---
 
 <div align="center">
   <h3>📊 GitHub Dashboard</h3>
-</div>
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=tokyonight&layout=compact&hide_border=true" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=tokyonight&hide_border=true" width="60%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=tokyonight&layout=compact&hide_border=true" width="60%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="60%" />
+  </p>
+</div>
 
 ---
 
