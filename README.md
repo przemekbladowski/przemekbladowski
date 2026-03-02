@@ -1,13 +1,15 @@
-<h1 align="center">Hi there, I'm Przemek! 👋</h1>
-<h3 align="center">Front-end Developer & Software Engineering Student from Poland 🇵🇱</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Hi%20there,%20I'm%20Przemek!&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/PrzemysławBladowski">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:przemek.bladowski29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://img.shields.io/badge/👨‍💻%20Software%20Engineer-Student-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=przemekbladowski&color=0077B5&style=flat-square&label=VISITS" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/PrzemysławBladowski"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:przemek.bladowski29@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,68 +25,93 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 
 ---
 
+### 🐍 My Contributions Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/przemekbladowski/przemekbladowski/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 📊 GitHub Dashboard
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" width="100%" />
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=tokyonight&layout=compact&hide_border=false" width="100%" />
+    </td>
+    <td width="33%" valign="top">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=tokyonight&hide_border=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠️ Tech Stack
 
-**Front-end & Frameworks** <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-**Back-end & Databases** <br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools, Cloud & Design** <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Front-end</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,sass" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Back-end</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Tools & Design</strong><br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,webpack,vercel,figma" />
+    </td>
+  </tr>
+</table>
 
 ---
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=github_dark&layout=compact&v=3" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=github-dark-orange&hide_border=false" width="97%" alt="GitHub Streak" />
-</p>
-
-<br />
 
 ### 🚀 Featured Projects
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/przemekbladowski/API_Project">
+        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=API_Project&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/przemekbladowski/kursNuxt">
+        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=kursNuxt&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/przemekbladowski/NPFD_INIS5_FD">
+        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=NPFD_INIS5_FD&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/przemekbladowski/ProjektReact">
+        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/przemekbladowski/reciepeAPP">
+        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=reciepeAPP&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/przemekbladowski/SPA-sklep">
+        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=SPA-sklep&theme=tokyonight" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/przemekbladowski/API_Project">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=API_Project&theme=github_dark&v=3" width="48%" alt="API Project" />
-  </a>
-  <a href="https://github.com/przemekbladowski/kursNuxt">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=kursNuxt&theme=github_dark&v=3" width="48%" alt="kursNuxt" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/przemekbladowski/NPFD_INIS5_FD">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=NPFD_INIS5_FD&theme=github_dark&v=3" width="48%" alt="NPFD_INIS5_FD" />
-  </a>
-  <a href="https://github.com/przemekbladowski/ProjektReact">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=github_dark&v=3" width="48%" alt="Projekt React" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/przemekbladowski/reciepeAPP">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=reciepeAPP&theme=github_dark&v=3" width="48%" alt="reciepeAPP" />
-  </a>
-  <a href="https://github.com/przemekbladowski/SPA-sklep">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=SPA-sklep&theme=github_dark&v=3" width="48%" alt="SPA-sklep" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
 </p>
