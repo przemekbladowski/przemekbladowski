@@ -21,14 +21,18 @@
 
 <div align="center">
 
-### 👨‍💻 Quick Summary
+## 👨‍💻 Profile Overview
 
-> **I bridge the gap between complex logic and intuitive user interfaces.** > 3rd-year *Software Engineering Student (B.Eng.)* at WSB Merito University in Gdańsk.
+`I bridge the gap between complex logic and intuitive user interfaces.`
 
-🏗️ **Current Project:** Commercial CRM/ERP system with Admin & User panels.  
-🎓 **Goal:** Finalizing Engineering degree with focus on modern web tech.  
-🏢 **Focus:** Scalable applications & UX optimization.  
-🌊 **Location:** Tricity, Poland.
+### 🎓 Engineering Student @ WSB Merito Gdańsk
+*Finalizing B.Eng. in Software Engineering with focus on modern web tech*
+
+<br />
+
+| 🏗️ **Current Project** | 🏢 **Main Focus** | 🌊 **Location** |
+| :--- | :--- | :--- |
+| Commercial CRM/ERP System | Scalable Apps & UX | Tricity, Poland |
 
 </div>
 
@@ -41,7 +45,9 @@
 
 ---
 
-### 📊 GitHub Dashboard
+<div align="center">
+  <h3>📊 GitHub Dashboard</h3>
+</div>
 
 <table width="100%">
   <tr>
@@ -59,7 +65,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+</div>
 
 <div align="center">
 
@@ -71,7 +79,9 @@
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+</div>
 
 <table width="100%">
   <tr>
@@ -95,18 +105,6 @@
     <td width="50%">
       <a href="https://github.com/przemekbladowski/ProjektReact">
         <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=tokyonight" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/przemekbladowski/reciepeAPP">
-        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=reciepeAPP&theme=tokyonight" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/przemekbladowski/SPA-sklep">
-        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=SPA-sklep&theme=tokyonight" width="100%" />
       </a>
     </td>
   </tr>
