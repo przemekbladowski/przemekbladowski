@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there, I'm [Twoje Imię]! 👋<br><br>I'm a 3rd-year **Software Engineering Student (B.Eng.)** at WSB Merito University in Gdańsk, specializing in **Front-end Development**. I bridge the gap between complex logic and intuitive user interfaces.<br><br>- 🏗️ **Currently working on:** A commercial CRM/ERP system with dedicated Admin and User panels.<br>- 🎓 **Education:** Finalizing my Engineering degree with a focus on modern web technologies.<br>- 🏢 **Focus:** Building scalable, production-ready applications and optimizing user experiences.<br>- 🌊 **Location:** Based in the beautiful Tricity area, Poland.<br><br>
+### Hi there, I'm Przemek! 👋<br><br>I'm a 3rd-year **Software Engineering Student (B.Eng.)** at WSB Merito University in Gdańsk, specializing in **Front-end Development**. I bridge the gap between complex logic and intuitive user interfaces.<br><br>- 🏗️ **Currently working on:** A commercial CRM/ERP system with dedicated Admin and User panels.<br>- 🎓 **Education:** Finalizing my Engineering degree with a focus on modern web technologies.<br>- 🏢 **Focus:** Building scalable, production-ready applications and optimizing user experiences.<br>- 🌊 **Location:** Based in the beautiful Tricity area, Poland.<br><br>
 
 
 ## 🌐 Socials:
