@@ -58,4 +58,5 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=przemekbladowski&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" alt="Top Languages" />
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
