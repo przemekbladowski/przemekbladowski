@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Hi%20there,%20I'm%20Przemek!&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=150&section=header&text=Hi%20there,%20I'm%20Przemek!&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Student-1a1b27?style=for-the-badge&logo=github&labelColor=7aa2f7&color=1a1b27" />
-  <img src="https://komarev.com/ghpvc/?username=przemekbladowski&color=7aa2f7&style=for-the-badge&label=VISITS" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEER-7aa2f7?style=for-the-badge&logo=github&logoColor=1a1b27" />
+  <img src="https://img.shields.io/badge/STUDENT-bb9af7?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=przemekbladowski&color=7dcfff&style=for-the-badge&label=VISITS" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/PrzemysławBladowski">
-    <img src="https://img.shields.io/badge/LINKEDIN-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27&labelColor=7aa2f7&color=1a1b27" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:przemek.bladowski29@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b27&labelColor=f7768e&color=1a1b27" />
+    <img src="https://img.shields.io/badge/GMAIL-f7768e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,14 +21,14 @@
 
 <div align="center">
 
-### 👨‍💻 About Me
+### 👨‍💻 Quick Summary
 
-I bridge the gap between complex logic and intuitive user interfaces. Currently a 3rd-year **Software Engineering Student (B.Eng.)** at WSB Merito University in Gdańsk.
+> **I bridge the gap between complex logic and intuitive user interfaces.** > 3rd-year *Software Engineering Student (B.Eng.)* at WSB Merito University in Gdańsk.
 
-- 🏗️ **Currently working on:** A commercial CRM/ERP system with dedicated Admin and User panels.
-- 🎓 **Education:** Finalizing my Engineering degree with a focus on modern web technologies.
-- 🏢 **Focus:** Building scalable, production-ready applications and optimizing user experiences.
-- 🌊 **Location:** Based in the beautiful Tricity area, Poland.
+🏗️ **Current Project:** Commercial CRM/ERP system with Admin & User panels.  
+🎓 **Goal:** Finalizing Engineering degree with focus on modern web tech.  
+🏢 **Focus:** Scalable applications & UX optimization.  
+🌊 **Location:** Tricity, Poland.
 
 </div>
 
@@ -45,13 +46,13 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" width="100%" />
+      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="100%" />
     </td>
     <td width="33%" valign="top">
-      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=tokyonight&layout=compact&hide_border=false" width="100%" />
+      <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=tokyonight&layout=compact&hide_border=true" width="100%" />
     </td>
     <td width="33%" valign="top">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=tokyonight&hide_border=false" width="100%" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
@@ -112,5 +113,5 @@ I bridge the gap between complex logic and intuitive user interfaces. Currently 
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=footer" />
 </p>
