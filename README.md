@@ -71,36 +71,4 @@
 ---
 
 <div align="center">
-  <h2>🚀 Featured Projects</h2>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/przemekbladowski/API_Project">
-        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=API_Project&theme=tokyonight" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/przemekbladowski/kursNuxt">
-        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=kursNuxt&theme=tokyonight" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/przemekbladowski/NPFD_INIS5_FD">
-        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=NPFD_INIS5_FD&theme=tokyonight" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/przemekbladowski/ProjektReact">
-        <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/pin/?username=przemekbladowski&repo=ProjektReact&theme=tokyonight" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=footer" />
-</p>
+ 
