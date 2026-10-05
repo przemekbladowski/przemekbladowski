@@ -38,9 +38,9 @@
 
 ### 💼 Day to day
 
-| 🖥️ **Panels** | 💳 **Payments** | ⚙️ **Background jobs** | 🕷️ **Scrapers** |
-| :---: | :---: | :---: | :---: |
-| SvelteKit · Prisma · PostgreSQL | Przelewy24 checkout | BullMQ · Redis | Playwright |
+| 🖥️ **Panels** | 💳 **Payments** | 🛒 **Landing & checkout** |
+| :---: | :---: | :---: |
+| SvelteKit · Prisma · PostgreSQL | Przelewy24 | SvelteKit · Tailwind |
 
 </div>
 
