@@ -32,7 +32,7 @@
 
 | 🏗️ **Current Project** | 🏢 **Main Focus** | 🌊 **Location** |
 | :---: | :---: | :---: |
-| **Real-Estate CRM (internship)** | **Scalable Apps & Mobile-First UX** | **Tricity, Poland** |
+| **Commercial CRM/ERP System** | **Scalable Apps & Mobile-First UX** | **Tricity, Poland** |
 
 <br />
 
