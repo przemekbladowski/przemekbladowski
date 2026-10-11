@@ -126,6 +126,62 @@
       <a href="https://github.com/przemekbladowski/studia-allegro">🔗 Repository</a> · <a href="https://przemekbladowski.github.io/studia-allegro/">🌐 Demo</a>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>👥 ScienceHub</h3>
+      Social portal for scientists — profiles, posts, comments and likes. Next.js frontend talking to a FastAPI + SQLite backend.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/ProjektReact">🔗 Repository</a> · <a href="https://my-app-ten-rho-10.vercel.app">🌐 Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌍 IP Geolocation Tracker</h3>
+      Detects a visitor's location from their IP and plots it on an interactive Leaflet/OpenStreetMap map.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/API_Project">🔗 Repository</a> · <a href="https://przemekbladowski.github.io/API_Project/">🌐 Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌤️ Pogoda i Jakość Powietrza</h3>
+      Weather and air quality lookup for any city, powered by the free Open-Meteo API.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/aplikacja_pogodowa">🔗 Repository</a> · <a href="https://przemekbladowski.github.io/aplikacja_pogodowa/">🌐 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛒 Spirytus.pl (SPA demo)</h3>
+      Single-page storefront UI in vanilla HTML/CSS/JS — client-side routing, age-verification modal, product catalogue and detail modal.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/SPA-sklep">🔗 Repository</a> · <a href="https://przemekbladowski.github.io/SPA-sklep/">🌐 Demo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🍳 Kulinarna Inspiracja</h3>
+      Recipe search app powered by TheMealDB API — search by dish or ingredient, browse results as cards with photos and links.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/reciepeAPP">🔗 Repository</a> · <a href="https://przemekbladowski.github.io/reciepeAPP/">🌐 Demo</a>
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
 </table>
 
 ---
