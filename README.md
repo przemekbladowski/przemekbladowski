@@ -21,26 +21,6 @@
 
 <div align="center">
 
-# 👨‍💻 Profile Overview
-
-## `I bridge the gap between complex logic and intuitive user interfaces.`
-
-### 🎓 Engineering Student @ WSB Merito Gdańsk
-**Finalizing B.Eng. in Software Engineering with focus on modern web tech**
-
-<br />
-
-| 🏗️ **Current Project** | 🏢 **Main Focus** | 🌊 **Location** |
-| :---: | :---: | :---: |
-| **Commercial CRM/ERP System** | **Scalable Apps & Mobile-First UX** | **Tricity, Poland** |
-
-<br />
-
-### 💼 Day to day
-
-| 🖥️ **Panels** | 💳 **Payments** | 🛒 **Landing & checkout** |
-| :---: | :---: | :---: |
-| SvelteKit · Prisma · PostgreSQL | Przelewy24 | SvelteKit · Tailwind |
 
 </div>
 
