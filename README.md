@@ -38,9 +38,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=przemekbladowski&theme=tokyonight&hide_border=true" width="75%" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api/top-langs?username=przemekbladowski&theme=tokyonight&layout=compact&hide_border=true" width="75%" />
-  </p>
+
 
   <p align="center">
     <img src="https://github-readme-stats-gilt-ten-57.vercel.app/api?username=przemekbladowski&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true" width="75%" />
