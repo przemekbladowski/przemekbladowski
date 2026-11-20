@@ -47,7 +47,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>📚 EduDash</h3>
-      School management system for private tutors and administrators — lesson scheduling, room allocation and automated payroll reports. Mobile-first UX.
+      System do zarządzania szkołą dla korepetytorów i administratorów — planowanie lekcji, przydział sal i automatyczne raporty wynagrodzeń. Projektowany przede wszystkim pod telefony.
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -55,11 +55,11 @@
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
       <br/><br/>
-      <a href="https://github.com/przemekbladowski/EduDash">🔗 Repository</a> · <a href="https://edu-dash-nine.vercel.app">🌐 Demo</a>
+      <a href="https://github.com/przemekbladowski/EduDash">🔗 Repozytorium</a> · <a href="https://edu-dash-nine.vercel.app">🌐 Demo</a>
     </td>
     <td width="33%" valign="top">
       <h3>👁️ OTO OKO</h3>
-      Management system for an optician's salon (engineering thesis, team project) — appointment booking, eye exams, in-store sales with QR payments and stock control.
+      System do zarządzania salonem optycznym (praca inżynierska, projekt zespołowy) — rezerwacja wizyt, badania wzroku, sprzedaż stacjonarna z płatnościami QR i kontrola magazynu.
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -67,30 +67,33 @@
       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
       <br/><br/>
-      🔒 Private repository
+      🔒 Prywatne repozytorium
     </td>
     <td width="33%" valign="top">
       <h3>🛠️ OTO OKO Admin</h3>
-      Admin panel for the OTO OKO system.
+      Panel administracyjny i pracowniczy systemu OTO OKO — rezerwacje i harmonogram pracy salonu, kartoteka pacjentów, badania optometryczne, powiadomienia oraz statystyki.
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
       <br/><br/>
-      🔒 Private repository
+      🔒 Prywatne repozytorium
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <h3>👥 ScienceHub</h3>
-      Social portal for scientists — profiles, posts, comments and likes. Next.js frontend talking to a FastAPI + SQLite backend.
+      Portal społecznościowy dla naukowców — profile, posty, komentarze i polubienia. Frontend w Next.js komunikuje się z backendem FastAPI + SQLite.
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <br/><br/>
-      <a href="https://github.com/przemekbladowski/ProjektReact">🔗 Repository</a> · <a href="https://my-app-ten-rho-10.vercel.app">🌐 Demo</a>
+      <a href="https://github.com/przemekbladowski/ProjektReact">🔗 Repozytorium</a> · <a href="https://my-app-ten-rho-10.vercel.app">🌐 Demo</a>
     </td>
     <td width="33%" valign="top"></td>
     <td width="33%" valign="top"></td>
