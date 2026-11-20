@@ -1,8 +1,8 @@
-name: Generate Contribution Snake
+name: Generate contribution grid
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch: {}
   push:
     branches:
@@ -15,15 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
 
-      # Creates the output branch on the first run, so no manual setup is needed
+      - name: Build grid
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          gh api graphql -f query='query($u:String!){user(login:$u){contributionsCollection{contributionCalendar{weeks{contributionDays{contributionLevel date}}}}}}' -f u="${{ github.repository_owner }}" > calendar.json
+          node .github/scripts/grid.mjs calendar.json dark > dist/contribution-grid-dark.svg
+          node .github/scripts/grid.mjs calendar.json light > dist/contribution-grid.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
