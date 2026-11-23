@@ -45,18 +45,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>📚 EduDash</h3>
-      System do zarządzania szkołą dla korepetytorów i administratorów — planowanie lekcji, przydział sal i automatyczne raporty wynagrodzeń. Projektowany przede wszystkim pod telefony.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-      <br/><br/>
-      <a href="https://github.com/przemekbladowski/EduDash">🔗 Repozytorium</a> · <a href="https://edu-dash-nine.vercel.app">🌐 Demo</a>
-    </td>
+
     <td width="33%" valign="top">
       <h3>👁️ OTO OKO</h3>
       System do zarządzania salonem optycznym (praca inżynierska, projekt zespołowy) — rezerwacja wizyt, badania wzroku, sprzedaż stacjonarna z płatnościami QR i kontrola magazynu.
