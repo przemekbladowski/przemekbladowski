@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
       <br/><br/>
-      <a href="https://github.com/przemekbladowski/stop-scout-mobile">🔗 Repozytorium</a> · <a href="https://expo.dev/artifacts/eas/aSflZqdF1soIIxhZTZdQzLXtHeL1MUXkJ0Zr0BaMjLw.apk">🌐 Demo (APK)</a>
+      <a href="https://github.com/przemekbladowski/stop-scout-mobile">🔗 Repozytorium</a> · <a href="https://github.com/przemekbladowski/stop-scout-mobile/blob/main/docs/demo.mp4">🎬 Demo</a>
     </td>
     <td width="33%" valign="top">
       <h3>👁️ OTO OKO</h3>
