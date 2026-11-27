@@ -46,6 +46,18 @@
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>🚌 Stop Scout</h3>
+      Mobilna aplikacja do odjazdów ZTM Gdańsk — odjazdy na żywo, interaktywna mapa przystanków (Leaflet), ulubione i konto. Clean Architecture + DDD, testy Jest, build APK.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+      <br/><br/>
+      <a href="https://github.com/przemekbladowski/stop-scout-mobile">🔗 Repozytorium</a> · <a href="https://expo.dev/artifacts/eas/aSflZqdF1soIIxhZTZdQzLXtHeL1MUXkJ0Zr0BaMjLw.apk">🌐 Demo (APK)</a>
+    </td>
+    <td width="33%" valign="top">
       <h3>👁️ OTO OKO</h3>
       System do zarządzania salonem optycznym (praca inżynierska, projekt zespołowy) — rezerwacja wizyt, badania wzroku, sprzedaż stacjonarna z płatnościami QR i kontrola magazynu.
       <br/><br/>
@@ -70,6 +82,8 @@
       <br/><br/>
       🔒 Prywatne repozytorium
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h3>👥 ScienceHub</h3>
       Portal społecznościowy dla naukowców — profile, posty, komentarze i polubienia. Frontend w Next.js komunikuje się z backendem FastAPI + SQLite.
